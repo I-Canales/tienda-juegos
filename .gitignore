@@ -1,0 +1,7 @@
+/node_modules
+/build
+/coverage
+.env.local
+npm-debug.log*
+Thumbs.db
+.DS_Store
